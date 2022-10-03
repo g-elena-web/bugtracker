@@ -1,4 +1,4 @@
-![экран списка ошибок](https://github.com/g-elena-web/bugtracker/blob/master/src/screenshots/index.jpg)
+![экран списка ошибок](https://github.com/g-elena-web/bugtracker/master/screenshots/index.jpg)
 
 # Описание
 
@@ -12,9 +12,9 @@
 
 # Подробнее
 
-![редактирование существующей ошибки](https://github.com/g-elena-web/bugtracker/blob/master/src/screenshots/issueedit.jpg)
+![редактирование существующей ошибки](https://github.com/g-elena-web/bugtracker/master/screenshots/issueedit.jpg)
 
-![история ошибки](https://github.com/g-elena-web/bugtracker/blob/master/src/screenshots/issuehistory.jpg)
+![история ошибки](https://github.com/g-elena-web/bugtracker/master/screenshots/issuehistory.jpg)
 
 - При нажатии на строку таблицы списка ошибок осуществляется переход на страницу редактирования и просмотра соответствующей ошибки, включая подробное описание и историю ошибки
 
@@ -26,5 +26,5 @@
 
 - Приложение предназначено для просмотра на устройствах с шириной экрана 1100px и выше
 
-![добавление новой ошибки](https://github.com/g-elena-web/bugtracker/blob/master/src/screenshots/addissue.jpg)
+![добавление новой ошибки](https://github.com/g-elena-web/bugtracker/master/screenshots/addissue.jpg)
 
