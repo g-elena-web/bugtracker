@@ -8,7 +8,7 @@
 
 База данных PostgreSQL.
 
-Скрип создания таблиц БД в pgadmin включен в репозиторий.
+Скрипт создания таблиц БД в pgadmin включен в репозиторий.
 
 Используемое имя dataSource в ColdFusion: golovlevadb
 
