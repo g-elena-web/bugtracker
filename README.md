@@ -7,13 +7,14 @@
 # База данных
 
 База данных PostgreSQL.
+
 Скрип создания таблиц БД в pgadmin включен в репозиторий.
+
 Используемое имя dataSource в ColdFusion: golovlevadb
 
 # Подробнее
 
 ![редактирование существующей ошибки](https://github.com/g-elena-web/bugtracker/blob/master/screenshots/issueedit.jpg)
-
 ![история ошибки](https://github.com/g-elena-web/bugtracker/blob/master/screenshots/issuehistory.jpg)
 
 - При нажатии на строку таблицы списка ошибок осуществляется переход на страницу редактирования и просмотра соответствующей ошибки, включая подробное описание и историю ошибки
