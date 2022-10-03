@@ -16,9 +16,8 @@
     <cfelse> 
         <cfif cflogin.name IS "" OR cflogin.password IS ""> 
         <cfoutput> 
-            <h2>You must enter text in both the User Name
-            and Password fields. 
-            </h2> 
+            <p class="alert">Не введен логин или пароль. 
+            </p> 
         </cfoutput> 
         <cfinclude template="login.cfm"> 
         <cfabort> 

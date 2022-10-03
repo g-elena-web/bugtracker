@@ -53,14 +53,6 @@
                     commentField.required="";
                 }
             }
-
-            function hideStatusOptions() {
-                const oldStatus = <cfoutput>"#record.status#"</cfoutput>;
-                const statusField = document.getElementById("status");
-                if (oldStatus == 'Закрытая') {
-                    statusField.disabled = "yes";
-                }
-            }
         </script>
 
     </cfif>
